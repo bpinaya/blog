@@ -5,6 +5,11 @@ draft = false
 tags = ["atlas","humanoid","robots"]
 title = "Working with humanoids"
 summary = """This post describes some of my experiences while working with Atlas."""
+
+[header]
+image = "/img/2015-10-11/atlas2.jpg"
+caption = "Image credit: **Benjamin Pinaya**"
+
 +++
 Working with a humanoid robot was an awesome new experience for me.
 
