@@ -31,6 +31,10 @@ weight = 5
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a mechatronics engineer from UCB San Pablo. Thanks to a Fulbright scholarship I finished my master in Robotics at the Worcester Polytechnic Institute in Worcester MA.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+I've been part of robotics competitions like the Space Robotics Challenge by Nasa. Also former member of the WHRL (WPI Humanoid Robotics Laboratory). 
+
+Due to my work I was named [Intel Student Ambassador](https://software.intel.com/en-us/blogs/2017/05/01/benjamin-pinaya-mechatronics-engineer-roboticist-space-technology-enthusiast) and also Jetson Student Partner by Nvidia.
+
+Currently I work as a researcher at Mojix and also as an adjunct professor at "UCB San Pablo" In Bolivia.

@@ -1,7 +1,7 @@
 +++
 date = 2015-10-11
 draft = false
-tags = ["ros","gitlab","slack","testing"]
+tags = ["ros","gitlab","slack","testing","robots"]
 title = "ROS Testing with Gitlab-CI and Slack"
 summary = """Automate your ROS environment builds with Gitlab-CI and get notifications in Slack"""
 
