@@ -30,7 +30,7 @@ This was a really hands on lab, at the end you would end up recognizing digits, 
 100% agree :D
 
 2. 	Getting Started with Deep Learning.- This was a follow up of the first workshop, while still using digits, you got into more advance architectures for Deep Learning like [AlexNet](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf) and [DetectNet](https://devblogs.nvidia.com/parallelforall/detectnet-deep-neural-network-object-detection-digits/), do you want to recognize whales in the ocean? Count the number of trucks using satellite or drone images? This is the way to go:
-![detectnet](/img/2016-10-28/detectnet.jpg)
+![detectnet](/img/2016-10-28/detectnet.jpeg)
 
 
 ## Day 2
