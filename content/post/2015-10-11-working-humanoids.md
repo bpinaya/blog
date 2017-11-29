@@ -24,7 +24,7 @@ Well, maybe not your laptop but your desktop, depends on how powerful your lapto
 
 Just install the DRC package as you can see [in this link](http://gazebosim.org/tutorials?tut=drcsim_install) and you'll end up with something like this:
 
-![Atlas Robot](2015-10-11/atlas.png)
+![Atlas Robot](/2015-10-11/atlas.png)
 
 As a note, you have to have Gazebo2 installed, Ros Indigo and be running Ubuntu 14.04. I might upload an script latter to do the installation in one command, but it's pretty straight forward.
 
