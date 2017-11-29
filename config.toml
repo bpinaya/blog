@@ -47,7 +47,7 @@ defaultContentLanguageInSubdir = false
   organizations = [ { name = "Mojix", url = "https://www.mojix.com/" }, { name = "Universidad Catolica", url = "https://www.ucb.edu.bo/" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "bpinayasquare.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "bpinaya@wpi.edu"
   address = "Ave 14 de Septiembre 2, La Paz 4807"
   office_hours = "Monday 10:00 to 13:00 or email for appointment"
@@ -242,13 +242,13 @@ defaultContentLanguageInSubdir = false
   weight = 1
 
 [[menu.main]]
-  name = "Publications"
-  url = "#publications_selected"
+  name = "Posts"
+  url = "#posts"
   weight = 2
 
 [[menu.main]]
-  name = "Posts"
-  url = "#posts"
+  name = "Teaching"
+  url = "#teaching"
   weight = 3
 
 [[menu.main]]
@@ -257,8 +257,8 @@ defaultContentLanguageInSubdir = false
   weight = 4
 
 [[menu.main]]
-  name = "Teaching"
-  url = "#teaching"
+  name = "Publications"
+  url = "#publications_selected"
   weight = 5
 
 [[menu.main]]
