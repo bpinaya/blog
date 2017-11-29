@@ -7,7 +7,7 @@ title = "Working with humanoids"
 summary = """This post describes some of my experiences while working with Atlas."""
 
 [header]
-image = "/img/2015-10-11/atlas2.jpg"
+image = "/2015-10-11/atlas2.jpg"
 caption = "Image credit: **Benjamin Pinaya**"
 
 +++
