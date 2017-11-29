@@ -29,7 +29,7 @@ weight = 5
  
 +++
 
-# Biography
+# About me
 
 I am a mechatronics engineer from UCB San Pablo. Thanks to a Fulbright scholarship I finished my master in Robotics at the Worcester Polytechnic Institute in Worcester MA.
 
