@@ -1,6 +1,6 @@
 +++
 date = 2014-09-22
-# lastmod = 2017-09-03
+lastmod = 2017-11-29
 draft = false
 tags = ["hello-world"]
 title = "Hello World!"
@@ -28,6 +28,8 @@ As for the Why: beyond the obvious financial motivation, it's exceedingly simple
 I am thinking on writing some post about setting things up in DigitalOcean + Ghost, but there are so many!!! Maybe I will write one in Spanish, I haven’t seen so many of them so far.
 
 Over and out!
+
+**UPDATE:** While I first set this blog up on Ghost + DigitalOcean I've latter migrated to Github Pages + Jekyll and I am currently on Hugo + Netlify.
 
 <blockquote class="pullquote">
 
