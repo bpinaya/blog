@@ -1,5 +1,5 @@
 +++
-date = 2015-10-11
+date = 2016-10-17
 draft = false
 tags = ["udacity","sdcnd"]
 title = "What to expect and how to prepare for Udacity's SDCND"

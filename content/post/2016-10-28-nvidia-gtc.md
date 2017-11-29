@@ -1,5 +1,5 @@
 +++
-date = 2015-10-11
+date = 2016-10-28
 draft = false
 tags = ["#GTCDC2016","Nvidia"]
 title = "GTCDC 2016 Recap"
