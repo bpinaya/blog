@@ -24,7 +24,7 @@ Well, maybe not your laptop but your desktop, depends on how powerful your lapto
 
 Just install the DRC package as you can see [in this link](http://gazebosim.org/tutorials?tut=drcsim_install) and you'll end up with something like this:
 
-![Atlas Robot](/2015-10-11/atlas.png)
+![Atlas Robot](/img/2015-10-11/atlas.png)
 
 As a note, you have to have Gazebo2 installed, Ros Indigo and be running Ubuntu 14.04. I might upload an script latter to do the installation in one command, but it's pretty straight forward.
 
@@ -32,7 +32,7 @@ And there you have it, a robot from Boston Dynamics running in your computer, no
 
 It is hard at the beginning, getting used to it, understanding ROS, Gazebo, Rviz, Nodes, subscribers, publishers and all the topics you must know because a bit frustrating, but when you made it, have Atlas running on your simulation, running code you wrote, you know it was worth it. I myself am very grateful that I can work with him.
 
-![Atlas](2015-10-11/atlas2.jpg)
+![Atlas](/img/2015-10-11/atlas2.jpg)
 
 If you have further questions about Atlas, or would like to run something on the real one (maybe?), shot me an email and we can talk. bpinaya@wpi.edu
 
