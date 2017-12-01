@@ -31,6 +31,8 @@ Just install the DRC package as you can see [in this link](http://gazebosim.org/
 
 ![Atlas Robot](/img/2015-10-11/atlas.png)
 
+{{< figure src="/img/2015-10-11/atlas.png" title="Atlas Robot" >}}
+
 As a note, you have to have Gazebo2 installed, Ros Indigo and be running Ubuntu 14.04. I might upload an script latter to do the installation in one command, but it's pretty straight forward.
 
 And there you have it, a robot from Boston Dynamics running in your computer, now you can experiment on him, use the lidar, maybe implement SLAM, create a footstep planner and much more. I am amazed by the power of open source software that let's you do this.
