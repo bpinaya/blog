@@ -19,6 +19,6 @@ weight = 20
 Currently I am an adjunct professor at [UCB San Pablo - Bolivia](https://www.ucb.edu.bo/) and teaching the following courses:
 
 - [IMT-202: Control Theory II (2017)]{{< ref "courses/control_theory_II_2017.md" >}}
-- [TEST]{{< ref "control.md" >}}
+- [TEST]({{< ref "control.md" >}})
 - IMT-350: Robotics (2017)
 - IMT-351: Robotics - Laboratory (2017)
