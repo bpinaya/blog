@@ -1,5 +1,5 @@
 +++
-date = 2015-10-11
+date = 2016-10-11
 draft = false
 tags = ["ros","gitlab","slack","testing","robots"]
 title = "ROS Testing with Gitlab-CI and Slack"
