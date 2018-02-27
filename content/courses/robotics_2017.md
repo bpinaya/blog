@@ -8,6 +8,7 @@ summary = """Robotics course given at \"Universidad Catolica Boliviana San Pablo
 +++
 
 This subject involves the following:
+
 - An introduction to robotics
 - Transforms and DH Tables
 - Introduction to motion planning, C - Space, RRT, PRM

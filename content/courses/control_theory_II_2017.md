@@ -19,6 +19,7 @@ Control II covers advanced topics in control theory, students were supposed to l
 All the assignments were done in `c++` and sometimes Matlab was used. Taught about 30 students in third year with advanced control theory topics and also had them apply all in their final projects.
 
 Some of the final projects students did include (click the link to access the YouTube videos of the demonstrations):
+
 - [Ball On Plate](https://www.youtube.com/watch?v=J3PiaDjQifo&feature=youtu.be)
 - [Twin Rotor Mimo System TRMS](https://www.youtube.com/watch?v=4vlwKGnocAI&feature=youtu.be)
 - [Drone Control in 2D](https://www.youtube.com/watch?v=eutb-uVqvVU&feature=youtu.be)

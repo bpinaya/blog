@@ -8,6 +8,7 @@ summary = """Robotics Lab course given at \"Universidad Catolica Boliviana San P
 +++
 
 All the topics covered were developed in ROS Indigo, some of the topics given where:
+
 - An introduction to ROS nodes, topics, `catkin_make` and other build tools
 - Rviz for topic visualization and Gazebo for simulation
 - An introduction to Motion Planning with MoveIt
