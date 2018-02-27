@@ -7,4 +7,4 @@ title = "IMT-202: Control Theory II"
 summary = """Control Theory II course given at \"Universidad Catolica Boliviana San Pablo\" ."""
 +++
 
-Test course, does it work?
+Control Draft
