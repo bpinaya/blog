@@ -7,7 +7,7 @@ summary = """Most of the future self driving cars will have a sticker saying: NV
 
 [header]
 image = "2016-10-28/gtcdcheader.jpg"
-caption = "Image credit: **Udacity**"
+caption = "Image credit: **Personal**"
 
 +++
 
@@ -72,7 +72,7 @@ P.S. The food was amazing too
 ![Food](/img/2016-10-28/food.jpg)
 <blockquote class="pullquote">
 
-  <p>I think [autonomous driving]'s just going to become normal. Like an elevator. They used to have elevator operators, and then we developed some simple circuitry to have elevators just come to the floor that you're at, you just press the button." </p>
+  <p>"I think [autonomous driving]'s just going to become normal. Like an elevator. They used to have elevator operators, and then we developed some simple circuitry to have elevators just come to the floor that you're at, you just press the button." </p>
  <p>– Elon Musk</p>
  
 </blockquote>  
