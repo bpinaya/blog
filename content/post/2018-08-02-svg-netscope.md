@@ -24,13 +24,8 @@ And if you want to download that SVG locally to use in your presentantions or el
 That is all! Haven't been active for a while but I'll make a comeback anytime soon hehe.
 <blockquote class="pullquote">
 
-  <p>"I'm afraid that the following syllogism may be used by some in the future.
-    Turing believes machines think 
-    Turing lies with men 
-    Therefore machines do not think 
-
-    Yours in distress,
-    Alan" </p>
- <p>– Alan Turing</p>
+  <p>"Google will fulfill its mission only when its search engine is AI-complete. You guys know what that means? That’s artificial intelligence." 
+  </p>
+ <p>– Larry Page</p>
  
 </blockquote>  
