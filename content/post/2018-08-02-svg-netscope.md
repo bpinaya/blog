@@ -2,11 +2,11 @@
 date = 2018-08-02
 draft = false
 tags = ["Netscope","Nvidia Digits", "Saving SVGs"]
-title = "Visualizing and Saving your Deep Learning Networks with .prototxt"
+title = "Visualizing and Saving your Deep Learning Networks with `.prototxt`"
 summary = """When you need to visualize your Deep Learning Networks."""
 
 [header]
-image = "2018-08-02/nvidiaVsnetscope.jpg"
+image = "2018-08-02/nvidiaVsnetscope.png"
 caption = "Image credit: **Personal**"
 
 +++
@@ -24,13 +24,12 @@ And if you want to download that SVG locally to use in your presentantions or el
 That is all! Haven't been active for a while but I'll make a comeback anytime soon hehe.
 <blockquote class="pullquote">
 
-  <p>"I'm afraid that the following syllogism may be used by some in the future.<br>
+  <p>"I'm afraid that the following syllogism may be used by some in the future.
+    Turing believes machines think 
+    Turing lies with men 
+    Therefore machines do not think 
 
-    Turing believes machines think <br>
-    Turing lies with men <br>
-    Therefore machines do not think <br>
-
-    Yours in distress,<br>
+    Yours in distress,
     Alan" </p>
  <p>– Alan Turing</p>
  
