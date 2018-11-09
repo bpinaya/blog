@@ -40,18 +40,18 @@ defaultContentLanguageInSubdir = false
 
   # Your details.
   name = "Benjamin Pinaya Gutierrez"
-  role = "Researcher at Mojix and Adjunct Professor "
+  role = "Computer Vision Engineer at The Kobi Company"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "Mojix", url = "https://www.mojix.com/" }, { name = "Universidad Catolica", url = "https://www.ucb.edu.bo/" } ]
+  organizations = [ { name = "The Kobi Company", url = "https://thekobi.com/" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "bpinayasquare.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "bpinaya@wpi.edu"
-  address = "Ave 14 de Septiembre 2, La Paz 4807"
-  office_hours = "Monday 10:00 to 13:00 or email for appointment"
-  phone = "+591 76769048"
+  address = "Ambachtenlaan 7C, 3001 Leuven"
+  # office_hours = "Monday 10:00 to 13:00 or email for appointment"
+  phone = "+32 0476770464"
   skype = "benjamin__92"
   telegram = ""
 

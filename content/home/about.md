@@ -12,7 +12,8 @@ weight = 5
   interests = [
     "Robotics",
     "Artificial Intelligence",
-    "Computer Vision"
+    "Computer Vision",
+    "Deep Learning"
   ]
 
 # List your qualifications (such as academic degrees).
@@ -37,4 +38,4 @@ I've been part of robotics competitions like the Space Robotics Challenge by Nas
 
 Due to my work I was named [Intel Student Ambassador](https://software.intel.com/en-us/blogs/2017/05/01/benjamin-pinaya-mechatronics-engineer-roboticist-space-technology-enthusiast) and also Jetson Student Partner by Nvidia.
 
-Currently I work as a researcher at Mojix and also as an adjunct professor at "UCB San Pablo" In Bolivia.
+Currently I work as a Computer Vision Engineer at The Kobi Company in Leuven, Belgium. They have good belgian fries and beer over here, so I might stay for a bit.
